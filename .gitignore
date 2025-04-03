@@ -1,3 +1,5 @@
 __pycache__
 .env
 .learn
+tf-env/
+!tf-env/explore.ipynb
